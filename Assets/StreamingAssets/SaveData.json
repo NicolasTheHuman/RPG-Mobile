@@ -1,0 +1,129 @@
+{
+    "unitName": [
+        "Morak",
+        "Morak",
+        "Morak",
+        "Brady",
+        "Ragnar",
+        "Eve"
+    ],
+    "damage": [
+        3,
+        4,
+        3,
+        5,
+        3,
+        2
+    ],
+    "attackEnergy": [
+        0,
+        0,
+        0,
+        1,
+        4,
+        2
+    ],
+    "attackCooldown": [
+        0,
+        0,
+        0,
+        3,
+        2,
+        0
+    ],
+    "skillEnergy": [
+        2,
+        0,
+        2,
+        6,
+        2,
+        4
+    ],
+    "skillCooldown": [
+        2,
+        2,
+        2,
+        4,
+        3,
+        2
+    ],
+    "maxHP": [
+        10,
+        10,
+        10,
+        7,
+        15,
+        12
+    ],
+    "currentHP": [
+        2,
+        9,
+        7,
+        4,
+        15,
+        12
+    ],
+    "wave": 0,
+    "partyMembers": [
+        {
+            "instanceID": -17820
+        },
+        {
+            "instanceID": -18106
+        },
+        {
+            "instanceID": -18442
+        }
+    ],
+    "enemies": [
+        {
+            "instanceID": -18754
+        },
+        {
+            "instanceID": -19038
+        },
+        {
+            "instanceID": -19322
+        }
+    ],
+    "battleHUDs": [
+        {
+            "instanceID": 14500
+        },
+        {
+            "instanceID": 14318
+        },
+        {
+            "instanceID": 14146
+        },
+        {
+            "instanceID": 14562
+        },
+        {
+            "instanceID": 14418
+        },
+        {
+            "instanceID": 14446
+        }
+    ],
+    "battleStations": [
+        {
+            "instanceID": 14358
+        },
+        {
+            "instanceID": 14618
+        },
+        {
+            "instanceID": 14430
+        },
+        {
+            "instanceID": 14376
+        },
+        {
+            "instanceID": 14354
+        },
+        {
+            "instanceID": 14174
+        }
+    ]
+}
